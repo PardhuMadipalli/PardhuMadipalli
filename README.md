@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋
+
+Thanks for showing interest in my profile!
+
+Take a look at my pinned repositories below and mail me if you are interested in colloborating on any project.
+
+Learn more about me at my website [pardhumadipalli.github.io](https://pardhumadipalli.github.io)
+
+Cheers 😄
+
+
 
 <!--
 **PardhuMadipalli/PardhuMadipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
