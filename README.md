@@ -2,6 +2,8 @@
 
 Thanks for showing interest in my profile!
 
+<img alt="PardhuMadipalli GitHub Page" src="files/website_recording.gif"> </img>
+
 Take a look at my pinned repositories below and mail me if you are interested in colloborating on any project.
 
 Learn more about me at my website [pardhumadipalli.github.io](https://pardhumadipalli.github.io)
