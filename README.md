@@ -1,13 +1,47 @@
-### Hi 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi</h1>
 
 Thanks for showing interest in my profile!
 
-Take a look at my pinned repositories below and mail me if you are interested in colloborating on any project.
+### ⚡ Experienced in
+- Building cloud native products that include
+    - designing end-to-end cloud service
+    - provisioning cloud infrastructure such as networking, file systems, compute etc.
+    - implementing control-plane using cloud services like **kubernetes**, **docker**
+    - managing entire infrastructure using **Terraform**
+    - maintain CI/CD pipelines that can deliver the implemented code to customers within hours
+- Java web services
+- BigData tools like Kafka and Apache Spark 
+- Machine Learning
 
-Learn more about me at my website [pardhumadipalli.github.io](https://pardhumadipalli.github.io)
+### 🔭 Can code expertly in
+- Java
+- Python
+- Terraform
+- Javascript
+- Terraform
+- Bash
+- C
+
+### ✨ Professionally interested in developing
+- Cloud based products
+- Java applications
+
+### 👯 Programming Hobbies 
+- desingning personal websites or blogs
+- providing useful sample OpenSource applications code via GitHub
+- working on Machine Learning projects
+
+<h4>Learn more about my work and personal details here: <a href="https://pardhumadipalli.github.io">Pardhu Madipalli GitHub IO Page</a></h4>
+<br/>
+
+<a href="https://pardhumadipalli.github.io">
+<img style="margin-left: auto; margin-right: auto" alt="PardhuMadipalli GitHub Page" src="files/website_recording.gif"/>
+<br/>
+</a>
+
+Take a look at my pinned repositories below and mail me if you are interested in collaborating on any project.
 
 Cheers 😄
-
 
 
 <!--
