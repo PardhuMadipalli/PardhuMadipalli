@@ -31,11 +31,13 @@ Thanks for showing interest in my profile!
 - providing useful sample OpenSource applications code via GitHub
 - working on Machine Learning projects
 
-<h4>Learn more about my work and personal details here: <a href="https://pardhumadipalli.github.io">Pardhu Madipalli GitHub IO</a></h4>
+<h4>Learn more about my work and personal details here: <a href="https://pardhumadipalli.github.io">Pardhu Madipalli GitHub IO Page</a></h4>
 <br/>
 
-<img alt="PardhuMadipalli GitHub Page" src="files/website_recording.gif"/>
+<a href="https://pardhumadipalli.github.io">
+<img style="margin-left: auto; margin-right: auto" alt="PardhuMadipalli GitHub Page" src="files/website_recording.gif"/>
 <br/>
+</a>
 
 Take a look at my pinned repositories below and mail me if you are interested in collaborating on any project.
 
