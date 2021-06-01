@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1613822075/14046/hi.gif?1613822075" width="50"/></h1>
 
 Thanks for showing interest in my profile!
 
