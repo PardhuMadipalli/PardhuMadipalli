@@ -2,6 +2,8 @@
 
 Thanks for showing interest in my profile!
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PardhuMadipalli&theme=dracula&hide=contribs)](https://github.com/PardhuMadipalli/PardhuMadipalli)
+
 ### ⚡ Experienced in
 - Building cloud native products that include
     - designing end-to-end cloud service
@@ -16,7 +18,6 @@ Thanks for showing interest in my profile!
 ### 🔭 Can code expertly in
 - Java
 - Python
-- Terraform
 - Javascript
 - Terraform
 - Bash
