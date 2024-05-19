@@ -2,7 +2,12 @@
 
 Thanks for showing interest in my profile!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PardhuMadipalli&theme=dracula&hide=contribs)](https://github.com/PardhuMadipalli/PardhuMadipalli)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PardhuMadipalli&theme=dracula&hide_rank=true&hide=contribs)](https://github.com/PardhuMadipalli/PardhuMadipalli)
+
+### 🌱 Simple Web helper tools
+- [Interest calculator with history](https://pardhumadipalli.github.io/interest-calculator/)
+- [Superscript and subscript generator](https://pardhumadipalli.github.io/superscript-subscript-generator/)
+
 
 ### ⚡ Experienced in
 - Building cloud native products that include
