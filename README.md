@@ -10,6 +10,7 @@ Thanks for showing interest in my profile!
 
 
 ### ⚡ Experienced in
+- Leading teams in building scalable synchonous and async applications involving SQL and NoSQL databases, complex workflow.
 - Building cloud native products that include
     - designing end-to-end cloud service
     - provisioning cloud infrastructure such as networking, file systems, compute etc.
@@ -37,7 +38,7 @@ Thanks for showing interest in my profile!
 - providing useful sample OpenSource applications code via GitHub
 - working on Machine Learning projects
 
-<h4>Learn more about my work and personal details here: <a href="https://pardhumadipalli.github.io">Pardhu Madipalli GitHub IO Page</a></h4>
+<h4>Know more about my work and personal details here: <a href="https://pardhumadipalli.github.io">Pardhu Madipalli GitHub IO Page</a></h4>
 <br/>
 
 <a href="https://pardhumadipalli.github.io">
